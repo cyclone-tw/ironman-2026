@@ -11,7 +11,7 @@ if [ -z "$RG" ]; then
   exit 2
 fi
 
-TARGETS=(posts evidence README.md)
+TARGETS=(posts evidence README.md AGENTS.md CLAUDE.md)
 hits=0
 
 check() {
