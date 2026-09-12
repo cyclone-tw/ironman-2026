@@ -35,5 +35,5 @@
 
 ## 發布追蹤
 
-- iThome 網址：
+- iThome 網址：https://ithelp.ithome.com.tw/articles/10409335
 - 發布日期：2026-09-11
