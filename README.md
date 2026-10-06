@@ -93,7 +93,7 @@
 |:---:|---|---|---|
 | 25 | AI 幫我去識別，結果把人名全刪了 | [連結](https://ithelp.ithome.com.tw/articles/10419483) |
 | 26 | 學生資料：這條線我不會踩 | [連結](https://ithelp.ithome.com.tw/articles/10421478) |
-| 27 | 我把校務接進 AI，然後把學校名字拿掉 | | |
+| 27 | 我把校務接進 AI，然後把學校名字拿掉 | [連結](https://ithelp.ithome.com.tw/articles/10421846) |
 
 ### 單元 6｜讀者自己跑一次
 
