@@ -43,56 +43,56 @@
 | Day | 標題 | iThome | 證據 |
 |:---:|---|---|---|
 | 01 | 我是國小教師，我有多個 AI 同事 | [連結](https://ithelp.ithome.com.tw/articles/10409335) | — |
-| 02 | 我現在怎麼讓幾個 AI 一起工作 | | |
-| 03 | 規則要求 CI 綠燈，但那個 repo 沒有 CI | | |
+| 02 | 我現在怎麼讓幾個 AI 一起工作 | [連結](https://ithelp.ithome.com.tw/articles/10409596) |
+| 03 | 規則要求 CI 綠燈，但那個 repo 沒有 CI | [連結](https://ithelp.ithome.com.tw/articles/10409728) |
 
 ### 單元 1｜從「幫我改一下」到可驗收
 
 | Day | 標題 | iThome | 證據 |
 |:---:|---|---|---|
-| 04 | 我做了進度表，才發現進度是 agent 自己填的 | | |
-| 05 | 動工前，我先讓 AI 把需求問清楚 | | |
-| 06 | 我怎麼把 issue 寫成可以驗收的工作單 | | |
-| 07 | 多階段工作怎麼用 Master issue 追蹤 | | |
-| 08 | 垂直切片：為什麼不要一次做完 | | |
+| 04 | 我做了進度表，才發現進度是 agent 自己填的 | [連結](https://ithelp.ithome.com.tw/articles/10410439) |
+| 05 | 動工前，我先讓 AI 把需求問清楚 | [連結](https://ithelp.ithome.com.tw/articles/10411017) |
+| 06 | 我怎麼把 issue 寫成可以驗收的工作單 | [連結](https://ithelp.ithome.com.tw/articles/10411157) |
+| 07 | 多階段工作怎麼用 Master issue 追蹤 | [連結](https://ithelp.ithome.com.tw/articles/10411160) |
+| 08 | 垂直切片：為什麼不要一次做完 | [連結](https://ithelp.ithome.com.tw/articles/10411869) |
 
 ### 單元 2｜讓 AI 審 AI
 
 | Day | 標題 | iThome | 證據 |
 |:---:|---|---|---|
-| 09 | 一個人怎麼做 code review？答案是不要自己做 | | |
-| 10 | Coder 不能是 Reviewer：AI 不能球員兼裁判 | | |
-| 11 | 怎麼確認審的人真的是它？ | | |
-| 12 | Round 1: changes-requested —— 一次真實攻防 | | |
-| 13 | AI 說我錯了，我拿實驗反駁它 | | |
-| 14 | 什麼時候該收手？review 迴圈的收斂判準 | | |
+| 09 | 一個人怎麼做 code review？答案是不要自己做 | [連結](https://ithelp.ithome.com.tw/articles/10413585) |
+| 10 | Coder 不能是 Reviewer：AI 不能球員兼裁判 | [連結](https://ithelp.ithome.com.tw/articles/10413819) |
+| 11 | 怎麼確認審的人真的是它？ | [連結](https://ithelp.ithome.com.tw/articles/10414018) |
+| 12 | Round 1: changes-requested —— 一次真實攻防 | [連結](https://ithelp.ithome.com.tw/articles/10414021) |
+| 13 | AI 說我錯了，我拿實驗反駁它 | [連結](https://ithelp.ithome.com.tw/articles/10414025) |
+| 14 | 什麼時候該收手？review 迴圈的收斂判準 | [連結](https://ithelp.ithome.com.tw/articles/10414029) |
 
 ### 單元 3｜agent 怎麼證明自己在做事
 
 | Day | 標題 | iThome | 證據 |
 |:---:|---|---|---|
-| 15 | 三個 AI 同時認領同一件事 | | |
-| 16 | V1 做錯了，我把它整個拆掉重做 | | |
-| 17 | Card、Activity、Run：三種東西不能混 | | |
-| 18 | 那張卡片被永久鎖死了 | | |
-| 19 | stale 不等於死掉：十二小時的人工出口 | | |
+| 15 | 三個 AI 同時認領同一件事 | [連結](https://ithelp.ithome.com.tw/articles/10415213) |
+| 16 | V1 做錯了，我把它整個拆掉重做 | [連結](https://ithelp.ithome.com.tw/articles/10417247) |
+| 17 | Card、Activity、Run：三種東西不能混 | [連結](https://ithelp.ithome.com.tw/articles/10417254) |
+| 18 | 那張卡片被永久鎖死了 | [連結](https://ithelp.ithome.com.tw/articles/10417265) |
+| 19 | stale 不等於死掉：十二小時的人工出口 | [連結](https://ithelp.ithome.com.tw/articles/10417266) |
 
 ### 單元 4｜系統怎麼壞
 
 | Day | 標題 | iThome | 證據 |
 |:---:|---|---|---|
-| 20 | 不確定就拒絕，不要硬做 | | |
-| 21 | 逾時的兩個根因，我都猜錯了 | | |
-| 22 | 裝好的技能三週沒生效，沒人發現 | | |
-| 23 | 升級把我的客製化蓋掉了 | | |
-| 24 | CI 紅燈那四次 | | |
+| 20 | 不確定就拒絕，不要硬做 | [連結](https://ithelp.ithome.com.tw/articles/10417267) |
+| 21 | 逾時的兩個根因，我都猜錯了 | [連結](https://ithelp.ithome.com.tw/articles/10419478) |
+| 22 | 裝好的技能三週沒生效，沒人發現 | [連結](https://ithelp.ithome.com.tw/articles/10419479) |
+| 23 | 升級把我的客製化蓋掉了 | [連結](https://ithelp.ithome.com.tw/articles/10419480) |
+| 24 | CI 紅燈那四次 | [連結](https://ithelp.ithome.com.tw/articles/10419482) |
 
 ### 單元 5｜老師的紅線
 
 | Day | 標題 | iThome | 證據 |
 |:---:|---|---|---|
-| 25 | AI 幫我去識別，結果把人名全刪了 | | |
-| 26 | 學生資料：這條線我不會踩 | | |
+| 25 | AI 幫我去識別，結果把人名全刪了 | [連結](https://ithelp.ithome.com.tw/articles/10419483) |
+| 26 | 學生資料：這條線我不會踩 | [連結](https://ithelp.ithome.com.tw/articles/10421478) |
 | 27 | 我把校務接進 AI，然後把學校名字拿掉 | | |
 
 ### 單元 6｜讀者自己跑一次
