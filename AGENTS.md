@@ -20,8 +20,8 @@
 ./scripts/privacy-check.sh
 ```
 
-沒過不准 commit。這道閘門擋的是公開後收不回來的東西：學校可識別資訊、Discord ID、
-內部主機名與私有網段 IP、token、本機絕對路徑、email。
+沒過不准 commit。這道閘門擋的是公開後收不回來的東西：Discord ID、
+內部主機名與私有網段 IP、token／secret、本機絕對路徑。
 
 確認是誤報時，改寫該行讓它不再命中，**不要放寬腳本規則**。
 
@@ -62,8 +62,3 @@ git add -A && git commit && git push
 - 一手證據（issue／PR／CI）與事後敘述（復盤筆記）在文中要分清楚。
 - commit message 不加 Co-Authored-By。
 - 參賽期間不刪除已發布文章。
-
-## 高風險篇目
-
-Day 25、26、27 涉及去識別與教育現場。自動閘門擋不了語意層的可識別性，
-這三篇發布前需要 Cyclone 本人逐字複核。Day 27 的學校一律用代稱。
